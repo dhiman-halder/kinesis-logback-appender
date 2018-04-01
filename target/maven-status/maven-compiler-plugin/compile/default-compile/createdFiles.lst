@@ -1,0 +1,4 @@
+com\dhiman\logback\appender\kinesis\BlockFastProducerPolicy.class
+com\dhiman\logback\appender\kinesis\CustomCredentialsProviderChain.class
+com\dhiman\logback\appender\kinesis\App.class
+com\dhiman\logback\appender\kinesis\KinesisAppender.class
